@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analysis Dashboard  
+# 🏨 Bookingcom Hotel Booking Analysis Dashboard  
 **Power BI + MySQL Project | Data-Driven Insights for Hospitality Optimization**
 
 ![Power BI Banner](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?style=for-the-badge&logo=powerbi)  
